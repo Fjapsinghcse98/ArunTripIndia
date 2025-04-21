@@ -1,11 +1,11 @@
 
 # Team Details
 ## Team leader:
-Name: Arun Prakash Sinngh
-UID: 21BCS11665g
+Name: Arun Prakash Singh
+UID: 21BCS11665
 
 ## Team members:
-Name: Shasahk Kumar
+Name: Shashak Kumar
 UID: 21BCS11754
  <br/>
 Name: Yash Raj
