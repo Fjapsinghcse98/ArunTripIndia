@@ -1,14 +1,14 @@
 
 # Team Details
 ## Team leader:
-Name: Shashank Kumar
-UID: 21BCS11754
+Name: Arun Prakash Sinngh
+UID: 21BCS11665giyt
 
 ## Team members:
-Name: Aditya Bansal
-UID: 21BCS11682
+Name: Shasahk Kumar
+UID: 21BCS11754
  <br/>
-Name: Sanidhya Prakash
-UID: 21BCS11746
+Name: Yash Raj
+UID: 21BCS11765
 
 
