@@ -2,7 +2,7 @@
 # Team Details
 ## Team leader:
 Name: Arun Prakash Sinngh
-UID: 21BCS11665giyt
+UID: 21BCS11665g
 
 ## Team members:
 Name: Shasahk Kumar
